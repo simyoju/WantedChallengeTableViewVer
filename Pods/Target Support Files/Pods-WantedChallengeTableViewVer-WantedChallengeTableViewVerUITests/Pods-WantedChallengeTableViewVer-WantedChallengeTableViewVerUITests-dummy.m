@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_WantedChallengeTableViewVer_WantedChallengeTableViewVerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_WantedChallengeTableViewVer_WantedChallengeTableViewVerUITests
+@end
